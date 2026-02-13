@@ -85,3 +85,32 @@ All dashboards are interactive and connected to slicers.
 
 ## 📂 Project Structure
 
+- Screenshots/ : Contains images of dashboards
+- COIN_MARKET_PROJECT.ipynb : Python code for data scraping
+- coinmarketcap_crypto_dataset.csv : Cryptocurrency dataset
+- README.md : Project documentation
+- Excel dashboard files (.xlsm)
+
+---
+
+## ▶ How to Use
+
+1. Download the Excel dashboard files.
+2. Open in Microsoft Excel.
+3. Enable macros if required.
+4. Refresh pivot tables.
+5. Use slicers to analyze data.
+
+---
+
+## 👨‍💻 Author
+Aryamaan Agarwal
+
+MCA Student | Data Analytics Enthusiast
+
+---
+
+## 📄 License
+This project is for academic and learning purposes only.
+
+
